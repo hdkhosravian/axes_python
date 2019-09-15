@@ -1,6 +1,6 @@
 # README
 I'm trying to create a machine learning NLP project with Python, Ruby on Rails and React.
-I created this project with `AXES` name, and you can access to complete of the project with this address: [Axes World](http://www.axes.world) ( I'm working on it, and if you haven't access to this url, please check it with this IP: 188.40.195.27, if this Ip doesn't work too please let me know: hd.khosravian@gmail.com )
+I created this project with `AXES` name, and you can access to complete of the project with this address: [Axes World](http://www.axes.world) ( I'm working on it to make it alive, so please wait for a little)
 <br />
 
 I'm trying to make this code clean, and this is just an MVP project. So please wait for it 😄!
@@ -25,3 +25,10 @@ use can use `docker-compose up -d` to run the project in the background.
 
 # Ruby on Rails Repository
 https://github.com/hdkhosravian/axes_ruby
+
+# Connection
+My Phone Number: +989197757642
+<br />
+My Email: hd.khosravian@gmail.com
+<br />
+My Linkedin: https://www.linkedin.com/in/hamid-khosravian/
