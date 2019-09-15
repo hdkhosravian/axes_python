@@ -21,7 +21,7 @@ Use this command to run docker:
 use can use `docker-compose up -d` to run the project in the background.
 
 ### also you can run the project in your system manually
-### python3 manage.py run
+- python3 manage.py run
 
 # Ruby on Rails Repository
 https://github.com/hdkhosravian/axes_ruby
